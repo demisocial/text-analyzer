@@ -1,0 +1,10 @@
+navbar-${theme} bg-${theme}`} data-bs-theme={`${theme}`}
+
+/* General styling */
+.main {
+  background-color: #f4f4f9; /* Light grayish-blue */
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
