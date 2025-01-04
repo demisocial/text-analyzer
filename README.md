@@ -1,7 +1,5 @@
 # TextUtils - A Simple Text Utility Application
 
-![Dark Mode](https://via.placeholder.com/800x200?text=TextUtils+-+Light+and+Dark+Modes)
-
 TextUtils is a simple, responsive text utility application built with **React.js**. It provides various functionalities to manipulate and analyze text, such as transforming case, counting words and characters, and more. The app supports both light and dark themes, offering a visually customizable experience.
 
 ---
